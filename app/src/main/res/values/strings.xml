@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Burndown</string>
+    <string name="widget_burndown_label">Sprint burndown</string>
+    <string name="widget_burndown_chart_label">Sprint burndown (chart only)</string>
+    <string name="widget_burnup_chart_label">Sprint burnup (chart only)</string>
+    <string name="widget_burnup_label">Sprint burnup</string>
+    <string name="widget_burndown_description">Work remaining in the current GitHub Projects sprint, with an ideal trend line.</string>
+    <string name="widget_burnup_description">Total scope and completed work in the current GitHub Projects sprint, with an ideal trend line.</string>
+    <string name="widget_burndown_chart_description">The sprint burndown chart filling the whole widget, with the current value on the line.</string>
+    <string name="widget_burnup_chart_description">The sprint burnup chart filling the whole widget, with the total and completed values on the lines.</string>
+</resources>
